@@ -1,9 +1,6 @@
 # Discord Voice Guard
 
-Bot Discord qui empêche ces deux utilisateurs d'être ensemble dans le même salon vocal :
-
-- 1051184437490094110
-- 689407464608890923
+Bot Discord qui empêche ces deux utilisateurs d'être ensemble dans le même salon vocal 
 
 Quand les deux se retrouvent dans le même vocal, le bot déconnecte automatiquement le dernier arrivé.
 
